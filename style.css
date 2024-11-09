@@ -46,8 +46,8 @@
 }
 
 .add input {
-	flex: 1;
 	width: 100%;
+	flex: 1;
 	border: none;
 	outline: none;
 	background: transparent;
@@ -79,6 +79,7 @@
 }
 
 ul li {
+	position: relative;
 	list-style: none;
 	font-size: 17px;
 	padding: 12px 8px 12px 50px;
